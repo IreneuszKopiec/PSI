@@ -1,0 +1,3 @@
+zad. 1
+Dział informatyczny: Szef działu > specjaliści i osoby upoważnione
+Osoba zgłaszająca: pracownik biblioteki
